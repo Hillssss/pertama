@@ -11,6 +11,6 @@ public cgitlass GreetingResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hilal Hibatullah";
+        return "hilal sayang juney";
     }
 }
